@@ -17,12 +17,15 @@ public class List_All_Files_In_A_Directory_And_Nested_Sub_Directories {
 			System.out.print("\t|-");
 
 		// for files
-		if (arr[index].isFile())
-			System.out.println("File Name-" + arr[index].getName());
+		if (arr[index].isFile()) //{
+			System.out.println(arr[index].getName());
+			// System.out.println("File Name-" + arr[index].getName());
+		//}
 
 		// for sub-directories
 		else if (arr[index].isDirectory()) {
-			System.out.println("Directory Name-[" + arr[index].getName() + "]");
+			System.out.println("|-[" + arr[index].getName() + "]");
+			// System.out.println("Directory Name-[" + arr[index].getName() + "]");
 
 			// recursion for sub-directories
 			RecursivePrint(arr[index].listFiles(), 0, level + 1);

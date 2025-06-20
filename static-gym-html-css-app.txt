@@ -1,0 +1,90 @@
+static-gym-html-css-app/
+	abc.css
+	aboutus.html
+	animation.html
+	Biography.html
+	browserconfig.xml
+	bs.html
+	careers.html
+	checkbox.html
+	|-[darshan]
+		|-abc.css
+		|-Biography.html
+		|-checkbox.html
+		|-facebook.png
+		|-|-[favpack]
+		|-	|-android-chrome-192x192.png
+		|-	|-android-chrome-384x384.png
+		|-	|-apple-touch-icon.png
+		|-	|-browserconfig.xml
+		|-	|-favicon-16x16.png
+		|-	|-favicon-32x32.png
+		|-	|-favicon.ico
+		|-	|-mstile-150x150.png
+		|-	|-safari-pinned-tab.svg
+		|-	|-site.webmanifest
+		|-groupcls.html
+		|-gym2.jpg
+		|-instagram.png
+		|-logo master.gif
+		|-logo the.png
+		|-master gym.html
+		|-membership.html
+		|-membership.jpg
+		|-twitter.png
+		|-weight lift.jpg
+		|-zumba.jpg
+	facebook.png
+	|-[favpack]
+		|-android-chrome-192x192.png
+		|-android-chrome-384x384.png
+		|-apple-touch-icon.png
+		|-browserconfig.xml
+		|-favicon-16x16.png
+		|-favicon-32x32.png
+		|-favicon.ico
+		|-mstile-150x150.png
+		|-safari-pinned-tab.svg
+		|-site.webmanifest
+	groupcls.html
+	Home - Shortcut.lnk
+	Home.html
+	|-[images]
+		|-1 day pass.jpg
+		|-Aerial_Yoga.jpg
+		|-care-male-healthy-weights-athletic-1536x1025.jpg
+		|-common-3643.jpeg
+		|-cycling.jpg
+		|-cycling2.jpg
+		|-exercise2.jpg
+		|-gym.5.jpg
+		|-gym.jpg
+		|-logo master.gif
+		|-logo the.png
+		|-membership.jpg
+		|-onepasss.jpg
+		|-power yoga 2.jpg
+		|-power yoga.jpg
+		|-PT.jpg
+		|-refer friends.png
+		|-refer2.jpg
+		|-rock.jpg
+		|-spcial offer.png
+		|-weight strength-man.jpg
+		|-weightlifting-tattoos 1.jpg
+		|-weightlifting-tattoos.jpg
+		|-Yoga-1c (1).jpg
+		|-zumba fitnness 2.jpg
+		|-zumba-fitness-.jpg
+	instagram.png
+	location.html
+	membership.html
+	mempolicy.html
+	navprac.html
+	offers.html
+	oneday.html
+	practices.html
+	PT.html
+	README.md
+	terms.html
+	twitter.png
